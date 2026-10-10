@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.hamod_98.twa",
+        "sha256_cert_fingerprints": ["C5:89:D8:4E:B0:47:B4:96:D4:14:33:62:BE:75:D6:FD:77:45:78:7C:4A:40:02:85:C7:CF:32:2A:3F:68:EA:3D"]
+      }
+    }]
